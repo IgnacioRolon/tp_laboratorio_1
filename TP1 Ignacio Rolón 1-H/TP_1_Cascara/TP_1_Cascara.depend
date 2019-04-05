@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1553801575 source:c:\users\ignir\desktop\escritorio\programacion\programacion_1_laboratorio_1\tp1 - fecha --\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1553800987 c:\users\ignir\desktop\escritorio\programacion\programacion_1_laboratorio_1\tp1 - fecha --\tp_1_cascara\funciones.h
+
+1553808082 source:/home/alumno/Rolon/programacion_1_laboratorio_1/TP1 - FECHA --/TP_1_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1553807748 /home/alumno/Rolon/programacion_1_laboratorio_1/TP1 - FECHA --/TP_1_Cascara/funciones.h
+
+1554231400 source:c:\users\ignir\desktop\escritorio\programacion\tp1\programacion_1_laboratorio_1\tp1 - fecha --\tp_1_cascara\funciones.c
+
+1554231402 source:c:\users\ignir\desktop\escritorio\programacion\tp1\programacion_1_laboratorio_1\tp1 - fecha --\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<math.h>
+
+1554231401 c:\users\ignir\desktop\escritorio\programacion\tp1\programacion_1_laboratorio_1\tp1 - fecha --\tp_1_cascara\funciones.h
+
+1554478020 source:c:\users\ignir\desktop\escritorio\programacion\entrega tps\tp_laboratorio_1\tp1 ignacio rolón 1-h\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<math.h>
+
+1554231401 c:\users\ignir\desktop\escritorio\programacion\entrega tps\tp_laboratorio_1\tp1 ignacio rolón 1-h\tp_1_cascara\funciones.h
+
